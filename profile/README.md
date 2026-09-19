@@ -46,7 +46,7 @@ The Innovation Lab is a hub for some of the most driven and creative student bui
 *   ✉️ **Email:** [scds-ilab-club@e.ntu.edu.sg](mailto:scds-ilab-club@e.ntu.edu.sg)
 *   💬 **Telegram:** [Channel](https://t.me/+3QXniLaW_m5mMTQ1)
 *   📸 **Instagram:** [@innovation.lab.ccds](https://instagram.com/innovation.lab.ccds/)
-*   💼 **LinkedIn:** [CCDS Innovation Lab](https://www.linkedin.com/company/ccds-innovation-lab/)
+*   💼 **LinkedIn:** [/company/ccds-innovation-lab/](https://www.linkedin.com/company/ccds-innovation-lab/)
 
 ---
 *Stay curious. Keep building.* 🚀
